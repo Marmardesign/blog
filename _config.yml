@@ -1,0 +1,21 @@
+# Site settings
+title: MarMarDesigns
+subtitle: "Sharing my designs with the world"
+email: paslausm@gmail.com
+description: "I love drawing"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: "paslausm"
+github_username:  "marthyn"
+instagram_username: "paslausm"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed
