@@ -11,6 +11,6 @@ tags: drawing, pencil, art
 # My brother really wanted a tattoo of an owl, so i drawed this.
 
 <div class="post-image">
-    <img src="/img/owl.png">
+    <img src="/blog/img/owl.png">
     <p class="post-image-caption">The owl</p>
 </div>
